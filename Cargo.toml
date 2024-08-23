@@ -1,0 +1,13 @@
+[package]
+edition = "2021"
+name = "r53tool"
+description = "A command line tool for working with domains and zones in AWS Route53"
+version = "0.1.0"
+license = "Apache-2.0"
+repository = "https://github.com/SixDoughnuts/r53tool"
+keywords = ["aws", "route53"]
+categories = ["command-line-utilities"]
+authors = ["Matt Smith"]
+readme = "README.md"
+
+[dependencies]
